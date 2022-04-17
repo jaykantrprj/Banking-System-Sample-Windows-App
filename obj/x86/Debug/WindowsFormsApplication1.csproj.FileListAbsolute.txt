@@ -1,0 +1,140 @@
+C:\Documents and Settings\Owner\Desktop\GC\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Owner\Desktop\GC\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\GC\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EmployeeWork.resources
+C:\Documents and Settings\Owner\Desktop\GC\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Documents and Settings\Owner\Desktop\GC\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Employee.resources
+C:\Documents and Settings\Owner\Desktop\GC\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.NewCustomer.resources
+C:\Documents and Settings\Owner\Desktop\GC\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Owner\Desktop\GC\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Owner\Desktop\GC\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Owner\Desktop\GC\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Owner\Desktop\GC\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Owner\Desktop\GC\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\prg\C.net\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\prg\C.net\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\prg\C.net\WindowsFormsApplication\bin\Debug\WindowsFormsApplication1.exe
+D:\prg\C.net\WindowsFormsApplication\bin\Debug\WindowsFormsApplication1.pdb
+D:\prg\C.net\WindowsFormsApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\prg\C.net\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication1.EmployeeWork.resources
+D:\prg\C.net\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+D:\prg\C.net\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication1.Employee.resources
+D:\prg\C.net\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication1.NewCustomer.resources
+D:\prg\C.net\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\prg\C.net\WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\prg\C.net\WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\prg\C.net\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication1.NewCustomer1.resources
+D:\prg\C.net\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication1.Update.resources
+D:\prg\C.net\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication1.WithDraw.resources
+D:\prg\C.net\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication1.Deposit.resources
+D:\prg\C.net\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication1.Detail.resources
+D:\prg\C.net\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication1.Transfer.resources
+D:\prg\C.net\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication1.NewCustomer2.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\prg\C.net\Banking System\bin\Debug\WindowsFormsApplication1.exe
+D:\prg\C.net\Banking System\bin\Debug\WindowsFormsApplication1.pdb
+D:\prg\C.net\Banking System\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.EmployeeWork.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.NewCustomer2.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.Transfer.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.Update.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.Employee.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.NewCustomer.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.Deposit.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.WithDraw.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\prg\C.net\Banking System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ironique_Z\Documents\Banking System\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Ironique_Z\Documents\Banking System\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ironique_Z\Documents\Banking System\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ironique_Z\Documents\Banking System\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ironique_Z\Documents\Banking System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ironique_Z\Documents\Banking System\obj\x86\Debug\WindowsFormsApplication1.Detail.resources
+C:\Users\Ironique_Z\Documents\Banking System\obj\x86\Debug\WindowsFormsApplication1.EmployeeWork.resources
+C:\Users\Ironique_Z\Documents\Banking System\obj\x86\Debug\WindowsFormsApplication1.NewCustomer2.resources
+C:\Users\Ironique_Z\Documents\Banking System\obj\x86\Debug\WindowsFormsApplication1.Transfer.resources
+C:\Users\Ironique_Z\Documents\Banking System\obj\x86\Debug\WindowsFormsApplication1.Update.resources
+C:\Users\Ironique_Z\Documents\Banking System\obj\x86\Debug\WindowsFormsApplication1.NewCustomer1.resources
+C:\Users\Ironique_Z\Documents\Banking System\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Ironique_Z\Documents\Banking System\obj\x86\Debug\WindowsFormsApplication1.Employee.resources
+C:\Users\Ironique_Z\Documents\Banking System\obj\x86\Debug\WindowsFormsApplication1.NewCustomer.resources
+C:\Users\Ironique_Z\Documents\Banking System\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ironique_Z\Documents\Banking System\obj\x86\Debug\WindowsFormsApplication1.Deposit.resources
+C:\Users\Ironique_Z\Documents\Banking System\obj\x86\Debug\WindowsFormsApplication1.WithDraw.resources
+C:\Users\Ironique_Z\Documents\Banking System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ironique_Z\Documents\Banking System\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.Bank.resources
+D:\prg\C.net\Banking System\bin\Debug\WindowsFormsApplication1.exe.config
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.NewCust1.resources
+C:\Users\Ironique_Z\Desktop\Banking System\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ironique_Z\Desktop\Banking System\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ironique_Z\Desktop\Banking System\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.Bank.resources
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.Detail.resources
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.EmployeeWork.resources
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.Manager.resources
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.NewCust1.resources
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.NewCustomer.resources
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.NewCustomer2.resources
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.NewEmployee.resources
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.NewEmployee1.resources
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.Security.resources
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.Transfer.resources
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.Update.resources
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.Employee.resources
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.Deposit.resources
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\WindowsFormsApplication1.WithDraw.resources
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ironique_Z\Desktop\Banking System\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.About.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.AccountRecord.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.EmployeeRecord.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.LoginRecord.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.Transiction.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.MDIPage.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.NewEmployee.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.NewEmployee1.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.ExistingEmployee.resources
+D:\prg\C.net\Banking System\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.About.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.AccountRecord.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.Bank.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.EmployeeRecord.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.ExistingEmployee.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.EmployeeWork.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.LoginRecord.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.MDIPage.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.NewCust1.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.NewCustomer.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.NewCustomer2.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.NewEmployee.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.NewEmployee1.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.Transfer.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.Transiction.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.Update.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.Employee.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.Deposit.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.WithDraw.resources
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\WindowsFormsApplication1.Newdelail.resources
+D:\prg\C.net\demosetup\Banking System\bin\Debug\Tech Banking.exe.config
+D:\prg\C.net\demosetup\Banking System\bin\Debug\Tech Banking.exe.manifest
+D:\prg\C.net\demosetup\Banking System\bin\Debug\Tech Banking.application
+D:\prg\C.net\demosetup\Banking System\bin\Debug\Tech Banking.exe
+D:\prg\C.net\demosetup\Banking System\bin\Debug\Tech Banking.pdb
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\Tech Banking.exe.manifest
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\Tech Banking.application
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\Tech Banking.exe
+D:\prg\C.net\demosetup\Banking System\obj\x86\Debug\Tech Banking.pdb

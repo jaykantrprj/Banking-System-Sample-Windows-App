@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Tech Banking.exe" version="1.0.0.3" publicKeyToken="5b4612f919f88912" language="en" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Hopstarter-Sleek-Xp-Basic-Money.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Tech Banking" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Tech Banking.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Tech Banking.exe" size="2622464">
+      <assemblyIdentity name="Tech Banking" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Pg5eq2kLkIQ51hrS3rg9V/8CbeA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="2014-12-03 15.18.31.jpg.ico" size="270398">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>2idoYpzppICCon8buXcZ6kTqy3M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Hopstarter-Sleek-Xp-Basic-Money.ico" size="297602">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ZGW2m4+vzzX/zCIwNm6Sd0RIXgQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="IMAG0778.jpg.ico" size="270398">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>pa4CgDFnqqB1Fd8FeQN3zD7pD+k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Tech Banking.exe.config" size="661">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>bkEassPjAYo+J5tmI7Njl5Y9KUc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <fileAssociation extension=".IC0" description="BANK APPLICATION" progid="123" defaultIcon="Hopstarter-Sleek-Xp-Basic-Money.ico" xmlns="urn:schemas-microsoft-com:clickonce.v1" />
+<publisherIdentity name="CN=Ironique_Z-PC\Ironique_Z" issuerKeyHash="21f79ba78eaac60d0c42c90ffa3b54f8d5052bcb" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>NI5ouxQyewPtOPYwDs+CTSm7Q3g=</DigestValue></Reference></SignedInfo><SignatureValue>ANxet1zH2gwfetNoATxlEUNrNjtBGhwE3qzSUzmbDZtcpXCfrlDJHABowh13h+UZUodOB35ZRzS/KrN5ezAcGLETmkAKzjD3ySDrHc2ukhAbJ3hvvXR2yD3Fm33Z36uLAMdaC+XQD9fc6unOBFSgW7a+KF8RxlFO6DTdSR8rjXo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>oLndk+2qbodSvCHF0ONZCdRKBzHntIqayMemfnTahmbvSuhl7t6GQhwb9ZBInV/lSwN/+e00rqXPwrSq1yt2gGNOsEdfJ/8mSYDgXPDK4Fsgq55YlSXWbbnCKzo94Vwj290ooqp16Lbq7yjBpGEkUAc1TxE5NoYQJojkf7oUUMc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="7843bb294d82cf0e30f638ed037b3214bb688e34" Description="" Url=""><as:assemblyIdentity name="Tech Banking.exe" version="1.0.0.3" publicKeyToken="5b4612f919f88912" language="en" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Ironique_Z-PC\Ironique_Z</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>zBTv4+XZr+VSQcThC8wiix6OanM=</DigestValue></Reference></SignedInfo><SignatureValue>X3donxB95fuicIwR7oNOT0bV0ywPCHxw+Rp3WXJoJAh4/lKGgk6MTyaMqtQJm5wiULqoqGS5bnMCQahglYL1BfzHAmxTv8i9NsgHB+J82Jjer3x8Mn9ywcTom2Bjmh4ktkhZT+mogRGbFjGFKCrwnFG9JgYjQG0tTmqN8CG6EVk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>oLndk+2qbodSvCHF0ONZCdRKBzHntIqayMemfnTahmbvSuhl7t6GQhwb9ZBInV/lSwN/+e00rqXPwrSq1yt2gGNOsEdfJ/8mSYDgXPDK4Fsgq55YlSXWbbnCKzo94Vwj290ooqp16Lbq7yjBpGEkUAc1TxE5NoYQJojkf7oUUMc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWKgAwIBAgIQdfq+JKoX8I1Aw8wpzxLzUzANBgkqhkiG9w0BAQUFADA7MTkwNwYDVQQDHjAASQByAG8AbgBpAHEAdQBlAF8AWgAtAFAAQwBcAEkAcgBvAG4AaQBxAHUAZQBfAFowHhcNMTUwMjA0MjA0NTQ2WhcNMTYwMjA1MDI0NTQ2WjA7MTkwNwYDVQQDHjAASQByAG8AbgBpAHEAdQBlAF8AWgAtAFAAQwBcAEkAcgBvAG4AaQBxAHUAZQBfAFowgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKC53ZPtqm6HUrwhxdDjWQnUSgcx57SKmsjHpn502oZm70roZe7ehkIcG/WQSJ1f5UsDf/ntNK6lz8K0qtcrdoBjTrBHXyf/JkmA4FzwyuBbIKueWJUl1m25wis6PeFcI9vdKKKqdei26u8owaRhJFAHNU8ROTaGECaI5H+6FFDHAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAIGuv14OxaAO93RrAnwg4KsnUmQEjpfSZkCxsqNtQDwVOGbHTqoUjYQIlU8FsjuieQAuyUKXr23SBY96GwHwVAr4Nj87246Hu5snkDZ7GfJN7Bo6V84eXgDicYaNSniOOqYPcIdeDtcfEoIhj5SZDl1MTeG71jNH5lUbr58zzgVY=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
